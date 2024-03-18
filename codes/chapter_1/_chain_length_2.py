@@ -1,4 +1,6 @@
 from typing import List
+import numpy as np
+from numpy import ndarray
 
 Array_function = callable[[ndarray], ndarray]
 
